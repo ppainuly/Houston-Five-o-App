@@ -20,7 +20,7 @@ Now there is a way to keep up with live and historic incidents of criminal and t
 The inspiration for this came about by experiences that we're sure other Houstonians have experienced. The first experience were a series of burglaries in a neighborhood by Sweetwater in the Greenspoint area of Houston, where the homeowners didn't even try to call the police because it takes them too long to show up, if they ever show up. The other experience was a shooting infront of my parent's house where they saw our neighbor's get shot. We know large cities have crime, and crimes usually happen reapetedly in certain areas for variouos reasons, way to many reasons and variables that affect the it to list. So we thought an application to show crime around the city of Houston would be beneficial for people to be aware of what's happending aroudn in the city. 
 
 ___
-![Houston Five-o Live Map](static/img/about.png)
+![Houston Five-o Live Map](https://raw.githubusercontent.com/ppainuly/Houston-Five-o/master/static/img/about.png?token=AKS7VGEHJEB2PBCJBSTMYEC6KE5N2)
 ___
 
 **Data**
@@ -60,14 +60,14 @@ ___
 
 #### Live Map
 
-![Houston Five-o Live Map](static/img/livemap.png)
+![Houston Five-o Live Map](https://raw.githubusercontent.com/ppainuly/Houston-Five-o/master/static/img/livemap.png?token=AKS7VGF4KFL43GQPGKYSBTK6KE5P2)
 
 Live map aims to track Real Time 911 incidents reported to Houston Police Department. The incidents are displayed at the co-ordinate of the location they were reported at. The sidebar lists the incidents in ascending order i.e newer incidents on top. On Hover, the map displays a pop-up attached to the incident which highlights the incident and displays addition details such as type, address and time of the reported incident.
 ___ 
 
 #### Historical Map
 
-![Houston Five-o Live Map](static/img/histmap.png)
+![Houston Five-o Live Map](https://raw.githubusercontent.com/ppainuly/Houston-Five-o/master/static/img/histmap.png?token=AKS7VGDEPX5GQ3LO7JCHM7C6KE5RI)
 
 The historical Map gathers all reported incidents from past year and displays them as a marker cluster. Clicking the cluster zooms into the map to show individual incidents. We aim to give a picture of various neighbourhoods and the crime activity reported in various areas of Houston.
 

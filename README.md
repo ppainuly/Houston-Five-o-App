@@ -3,13 +3,12 @@ Houston Five-o app version 2. Reporting live crime and Predicting likelihood of 
 
 
 <p align="center">
-  <img src="static/img/logo1.png"/>
+  <img src="https://raw.githubusercontent.com/ppainuly/Houston-Five-o/master/static/img/logo1.png?token=AKS7VGHKZT2KMJME6PVI6K26KE5KI"/>
 </p>
 <hr>
 
 APP URL : https://houston-five-o.herokuapp.com/
 
-Previous version repo url : https://github.com/ppainuly/Crimetracker-app
 
 **A web application for tracking live and archival data of crime activity in Houston, Texas.**
 ___
